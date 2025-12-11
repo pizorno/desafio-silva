@@ -23,7 +23,7 @@ Você tem **total liberdade para definir a arquitetura e a abordagem para resolv
 - Faça um **fork** deste repositório para o desenvolvimento.
 - Neste repositório, em `src/data/`, há um arquivo chamado `species.json` com os dados para você trabalhar na solução. Você pode tanto carregá-los em um banco de dados quanto usar o próprio arquivo diretamente no seu projeto.
 - No `README.md`, deixe instruções precisas de como podemos executar os testes e rodar a aplicação localmente.
-- Quando se sentir confortável com a sua solução, abra um **Pull Request** para o repositório original.
+- Quando se sentir confortável com a sua solução, abra um **Pull Request** ou nos mande o link do seu projeto.
 
 ---
 
